@@ -23,7 +23,7 @@ NOTE:  Please add only LinkedIn and GitHub repository information.  Any addition
 | 16 | Meghan Seger |  |  |  |
 | 17 | Bradley Stouffer |  |  |  |
 | 18 | Justin Whistle |  |  |  |
-| 19 | Bertha Zhao |  |  |  |
+| 19 | Bertha Zhao | Wichita,Kansas |  |  https://www.linkedin.com/in/bertha-zhao-21653b91|
 
 |     | Instructor | Location | GitHub | LinkedIn |
 | --- |---------|----------|--------|----------|
